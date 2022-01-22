@@ -8,6 +8,6 @@
     <img src="https://github.com/zulfadlizainal/zulfadlizainal/blob/main/profile.gif" width="100%" height="100%" />
 </p>
 
-<h4 align="left"><samp> If you think this work is useful: </samp></h4><br>
+<h4 align="left"><samp> If you think this work is useful: </samp></h4>
 
 <a href="https://www.buymeacoffee.com/zulfadlizainal" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="40" width="170"></a>
