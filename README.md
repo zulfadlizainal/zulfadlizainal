@@ -1,4 +1,4 @@
-<h4 align="left"><samp> Hello world. Welcome to my Github. I'm a wireless engineer specializing in 4G and 5G radio network. Here I share my development work related to telecom. </samp></h4>
+<h4 align="left"><samp> Hello world. Welcome to my Github. I'm a wireless engineer specializing in 4G/5G radio network. Here I share my software development work related to telecom. </samp></h4>
 
 <h4 align="left"><samp> Things that you will find in here: </samp></h4>
 
@@ -7,3 +7,5 @@
 </p>
 
 ![](https://visitor-badge.glitch.me/badge?page_id=zulfadlizainal.zulfadlizainal)
+
+<a href="https://www.buymeacoffee.com/zulfadlizainal" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="23" width="75"></a>
