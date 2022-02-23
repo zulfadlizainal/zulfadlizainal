@@ -10,4 +10,4 @@
 
 <h4 align="left"><samp> If you want to support this work: </samp></h4>
 
-<a href="https://www.buymeacoffee.com/zulfadlizainal" target="blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="40" width="170"></a>
+<br><a href="https://www.buymeacoffee.com/zulfadlizainal" target="blank"><img src="https://cdn.ko-fi.com/cdn/kofi2.png?v=2" alt="Buy Me A Coffee" height="50" width="170"></a>
